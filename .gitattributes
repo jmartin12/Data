@@ -2,3 +2,6 @@ reports_tat_2019.csv.zip filter=lfs diff=lfs merge=lfs -text
 reports_tat_2020.csv.zip filter=lfs diff=lfs merge=lfs -text
 reports_tat_2024.csv.zip filter=lfs diff=lfs merge=lfs -text
 reports_2023.csv.zip filter=lfs diff=lfs merge=lfs -text
+reports_tat_2023.csv.zip filter=lfs diff=lfs merge=lfs -text
+reports_tat_2021.csv.zip filter=lfs diff=lfs merge=lfs -text
+reports_tat_2022.csv.zip filter=lfs diff=lfs merge=lfs -text
